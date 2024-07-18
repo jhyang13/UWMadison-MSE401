@@ -1,6 +1,6 @@
 # Introduction to Machine Learning For Engineering Research (ML4ER)
 
-## Basics of Machine Learning
+## Module 1: Basics of Machine Learning
 
 https://bafflerbach.github.io/test_software_carpentry/01-MLbasics/index.html
 
