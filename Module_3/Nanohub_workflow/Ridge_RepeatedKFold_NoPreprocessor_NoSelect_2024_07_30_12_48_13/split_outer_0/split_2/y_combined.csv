@@ -1,0 +1,1177 @@
+y_test,y_pred,X_extra_test
+3.1,2.784112893279612,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.5,2.1995551035688843,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+8.0,4.086506989874784,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.4,2.833125345172668,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.89,3.3897797688649103,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.2,1.4598890535693934,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.9,3.236047209332934,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.6,0.6301348873795365,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.52,1.0673238594997843,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+4.85,8.28410064816065,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.35,0.37325794091766795,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.015,0.6451674074314289,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+8.1,6.300405457125757,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.55,2.720484851907127,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.07,2.0267241412915182,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+4.17,3.632444254111868,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.08,0.47711714809446626,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.4,2.2045999348612724,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.26,2.8587269252215783,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.122,2.6991542221779357,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.959,0.8916737429556258,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.7,3.1702970349962314,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.46,0.5545999310033785,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.42,1.4653191397921086,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.1,0.27039823283160214,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.05,2.167982484091796,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.6,2.675592059772397,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.54,1.8019277212092222,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.36,2.5365891542999384,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.335,0.9205546929781923,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.225,0.9794139790438212,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.8,-0.5802903029331699,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.8,2.188359278508816,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.17,0.24587801715823598,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.565,2.2168414489203236,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.2,1.6530553050187846,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.9,2.090511178373111,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.9,2.8027468469154835,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+8.5,6.6153253794452045,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.1,4.262928435368315,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.43,0.3011014293001226,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+9.33,5.85930195489452,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+6.0,3.6315825431911115,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.94,1.6584892881162494,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+4.7,2.346838360487213,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.7,3.1901078371797227,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.2,2.0512293364806813,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.6,1.3709929322902656,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.3083333333333336,2.941068218675487,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+5.89,4.434528705096085,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.3,3.6875232331672203,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.1,3.603591698824705,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.25,2.5927482082345086,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.12,1.079691551173021,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+4.9,2.668641021523077,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.0,1.496493605747335,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.7,1.1026596651197464,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.5,1.286026270553518,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.2,0.4049984060312184,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.512,0.9661204064939395,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+2.12,1.5502272464618638,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.5,1.7089586495156133,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.75,1.6902255934840982,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.8,1.08703131319366,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.11,-1.3388045344441917,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+10.4,8.493918257246836,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.8,0.23492104387057378,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.0,1.1718055029368237,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.82,3.3538138838452403,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+6.0,3.0290230049976135,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.87,2.170604564963206,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+11.0,3.842125016343112,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.89,1.5021989464370185,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.075,-2.081135298844531,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.5,2.676200424564768,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.73,3.513521000105044,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+0.95,2.092049207156191,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+4.625,3.0800423967935617,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.24,1.818197093344148,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.05,2.930984660109759,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+3.56,4.059142138286514,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.825,2.8749686632866407,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.5,0.9702025277139641,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"
+1.02,0.6024314765820864,"      index  Reliability chemicalFormula Clean
+16    176.0          1.0                Al2Se3
+17    181.0          1.0                Al2Te3
+31     37.0          1.0                  B1N1
+39   1070.0          1.0                Ba1Te1
+43     25.0          1.0                Be1Te1
+..      ...          ...                   ...
+418  1309.0          1.0                Tl1Br1
+419  1298.0          1.0                Tl1Cl1
+424  1292.5          1.0                 Tl2O3
+429  1455.0          1.0                    UO
+443  1200.0          1.0                Yb1As1
+
+[84 rows x 3 columns]"

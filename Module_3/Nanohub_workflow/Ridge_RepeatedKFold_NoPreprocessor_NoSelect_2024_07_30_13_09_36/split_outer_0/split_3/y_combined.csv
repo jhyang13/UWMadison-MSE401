@@ -1,0 +1,1177 @@
+y_test,y_pred,X_extra_test
+0.064,0.38233762907297253,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.82,3.2199458583049205,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.4,0.5915684955106217,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.919,1.4742680187804338,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+9.7,4.404971731343608,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+4.1,3.231675842829762,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.5,2.1188915271842865,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.755,2.53807418083099,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.7,6.100642028873678,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.26,4.738533918034859,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+5.7,6.655942434773177,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.6,0.42067211258702164,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.4175,2.09956409458472,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.68,2.752115879199035,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.55,0.04333638611309221,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+8.1,6.60823266282448,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.21,1.0768186443599679,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.08,3.2434790786347656,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.4,2.8880237829173927,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.9,1.0386603185373553,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.122,3.0049914909187248,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.7,3.4822917120293297,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.6,0.7644650008893459,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.4,0.6678259171083718,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.34,2.679597590951448,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.42,1.0456968633345947,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.1,-0.3170433200678886,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.725,0.5656562032019234,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.05,1.7050586973997999,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.42,1.3446628626836274,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.6,2.765732380371947,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.225,0.9779141787591323,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+5.55,2.6618711710924714,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.8,1.8776566667949843,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.59,3.889415519157808,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.48,2.015628858575877,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.175,0.11056202177644248,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.79,2.8598856236017323,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.84,3.302229995244148,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.1845,3.2661817518643605,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.9,1.9053538429324184,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.4,3.697160470015315,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+6.6,8.651511725378533,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.1,0.7398188391272562,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.4,3.049470784389958,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.3083333333333336,3.2676251613357774,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.1,3.425682450187961,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+4.9,2.9598656390114266,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+6.15,8.689847490833657,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.3,0.9311898736916904,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.97,3.087236268014771,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.7,2.1469546997912508,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.5,1.9248052336693666,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.2,1.0181549043864662,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.2,3.574442829164215,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.82,5.633181871599331,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.27,-0.0015011784977772002,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.31,-0.36189701321394896,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.65,0.5031643609062255,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.4,0.9073571995583352,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+4.9,2.961437517856835,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.84,3.0916375287819164,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.1,1.3532334030954372,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.8,2.0826505526110193,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+6.0,3.2334759663329296,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.89,1.7187663386180905,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.015,1.6424313976486378,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.17,3.133179249898576,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.5,1.0250285981440683,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.73,2.941759614199534,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.95,3.153778540895533,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.332,1.581358922872882,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.3,1.9449908172122803,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.15,3.492281733981147,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.9,2.500464588961491,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+3.56,4.319488430343821,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.73,0.6693890854717415,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.18,2.4807374735387486,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+2.34,3.4113414363628687,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.35,0.47619129825715967,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.33,2.0637892839956917,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+4.53,3.6056741827339596,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+1.15,1.394631366834127,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
+0.18,0.07839555063439874,"      index  Reliability chemicalFormula Clean
+7     819.0          1.0                Ag2Te1
+9     146.0          1.0                 Al1B1
+10    184.0          1.0                Al1Bi1
+13    177.5          1.0                Al1Sb1
+14    153.5          1.0                 Al2O3
+..      ...          ...                   ...
+439  1218.0          1.0                 W1Se2
+446  1198.0          1.0                   YbS
+448   485.0          1.0                 Zn1I2
+456   432.0          1.0                 Zn3P2
+465   729.0          1.0                 Zr6O1
+
+[84 rows x 3 columns]"
