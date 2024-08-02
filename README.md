@@ -29,6 +29,14 @@ https://bafflerbach.github.io/test_software_carpentry/03-MASTMLworkflows/index.h
 - Students will practice modifying the model type and hyperparameters within a machine learning workflow in MAST-ML by editing code in a Jupyter Notebook.
 - Students will compare a random forest model that’s coded into the Jupyter Notebook to a model of their choice and assess the relative performance of the model types.
 
+## Module 4: Optimizing Model Hyperparameters
+
+https://bafflerbach.github.io/test_software_carpentry/04-Hyperopt/index.html
+
+### Objectives
+- Students learn about how model hyperparameters can affect performance and are introduced to some basic ideas on how these hyperparameters can be optimized, namely the grid search method.
+- Students explore various methods of searching for a global minimum in model errors and avoiding getting trapped in a local minimum.
+- Students run a neural network within MAST-ML. They can describe what they are, how to use them, and how to optimize them.
 
 
 
