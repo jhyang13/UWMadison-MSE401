@@ -1,4 +1,4 @@
-# Introduction to Machine Learning For Engineering Research (ML4ER)
+# Introduction to Machine Learning for Engineering Research -  Summer 2024
 
 ## MAterials Simulation Toolkit for Machine Learning (MAST-ML)’s documentation：
 https://mastmldocs.readthedocs.io/en/latest/
@@ -37,6 +37,5 @@ https://bafflerbach.github.io/test_software_carpentry/04-Hyperopt/index.html
 - Students learn about how model hyperparameters can affect performance and are introduced to some basic ideas on how these hyperparameters can be optimized, namely the grid search method.
 - Students explore various methods of searching for a global minimum in model errors and avoiding getting trapped in a local minimum.
 - Students run a neural network within MAST-ML. They can describe what they are, how to use them, and how to optimize them.
-
 
 
